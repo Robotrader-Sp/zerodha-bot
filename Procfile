@@ -1,1 +1,1 @@
-worker: python bridge.py
+worker: python forwarder.py & python bridge.py
