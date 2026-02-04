@@ -1,5 +1,0 @@
-kiteconnect
-pyTelegramBotAPI
-pyotp
-requests
-telethon
